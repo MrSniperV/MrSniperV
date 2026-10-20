@@ -17,7 +17,7 @@ Backend Developer | .NET Developer | Clean Architecture Enthusiast
 ## 🧑‍💻 About Me
 
 ```csharp
-public class MohammadSalehMasoud
+public class Mohammad Masoud
 {
     public string Role => "Backend Developer";
     public string MainStack => ".NET / ASP.NET Core";
